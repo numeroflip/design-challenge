@@ -4,6 +4,7 @@
 Implement the design using the product details by using a tech-stack of your choice. It shouldn't take more than a few hours.
 
 [Figma design](https://www.figma.com/file/Y5gJbnjxhlwi2PvjU7iiSG/Frontend-task)
+
 [API to use](https://getgreenspark.mocklab.io/products)
 
 ## My Approach:
